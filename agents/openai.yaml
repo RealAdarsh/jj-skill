@@ -1,0 +1,4 @@
+interface:
+  display_name: "Jujutsu (jj) Workflow"
+  short_description: "Agent-safe Jujutsu version control workflows"
+  default_prompt: "Use $jj to perform this version-control task with Jujutsu commands."
